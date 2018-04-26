@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PokedexApp</string>
+    <string name="pokemon_s_name">Pokemon\'s Name</string>
+    <string name="submit">submit</string>
+    <string name="_1_s">%1$s</string>
+    <string name="effects">Effects</string>
 </resources>
